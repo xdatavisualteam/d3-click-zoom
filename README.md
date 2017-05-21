@@ -3,11 +3,12 @@ This project is Click-Zoom using D3.js.
 
 ## Quick Start
 
-# clone our repo
+- clone our repo
 ```
 $ git clone https://github.com/xdatavisualteam/d3-click-zoom.git
 ```
-# Then run the project using Xampp, Wamp or other server.
+
+- Then run the project using Xampp, Wamp or other server.
 
 # Result
 <img width="900" src="img/D3-Click-Zoom.png" border="0" />
